@@ -1,0 +1,5 @@
+This needs to be run outside the spkrc docker image. 
+Usage example: php CodeSign.php  --keydir=~/.gnupg --sign=packages/iperf_northstarplus-1.2_3.1.3-.spk
+On dsm there is no gpg-agent so I installed the gnupg package for my NAS (build with spkrc)..
+Further info about signing can be found https://originhelp.synology.com/developer-guide/create_package/sign_package.html
+The CodeSign.php I got from https://github.com/SynologyOpenSource/pkgscripts-ng/blob/master/CodeSign.php
