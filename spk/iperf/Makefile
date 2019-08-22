@@ -5,7 +5,7 @@ SPK_ICON = src/iperf.png
 
 DEPENDS = cross/$(SPK_NAME)
 
-MAINTAINER = SynoCommunity
+MAINTAINER = divx118
 DESCRIPTION = iPerf3 is a tool for active measurements of the maximum achievable bandwidth on IP networks.
 RELOAD_UI = no
 DISPLAY_NAME = iperf
