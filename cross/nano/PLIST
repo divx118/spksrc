@@ -47,3 +47,4 @@ rsc:share/nano/xml.nanorc
 rsc:share/locale
 rsc:share/doc
 rsc:share/man
+bin:bin/rnano
